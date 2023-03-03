@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/rm6781/spaced
+LOCAL_PATH := device/realme/spaced
